@@ -219,7 +219,7 @@ trivy image juhisinha/netflix:latest
 The application is deployed as a container.
 
 ```
-docker run -d -p 8081:80 mrsiddu73/netflix:latest
+docker run -d -p 8081:80 juhisinha/netflix:latest
 ```
 
 ---
@@ -356,7 +356,7 @@ http://13.xxx.xxx.xxx:30007
 **Access your Application**
    - To Access the app make sure port 30007 is open in your security group and then open a new tab paste your NodeIP:30007, your app should be running.
   
-  ![](https://github.com/MrSiddu73/DevSecOps-Project-Netflix-Deployment/blob/main/public/assets/home_page.jpeg)
+  ![](https://github.com/juhisinha422/DevSecOps-Project-Netflix-Deployment/blob/main/public/assets/home_page.jpeg)
 
 <div align="center">
   <p align="center">Home Page</p>
