@@ -1,0 +1,36 @@
+ DevSecOps CI/CD Pipeline Project – Netflix Clone Deployment
+
+I recently built a complete DevSecOps pipeline to deploy a Netflix Clone application using modern cloud-native tools.
+
+🔧 Tools & Technologies:
+• Jenkins
+• SonarQube
+• OWASP Dependency Check
+• Trivy
+• Docker
+• DockerHub
+• Kubernetes (K3s)
+• ArgoCD
+• Prometheus
+• Grafana
+• Node Exporter & cAdvisor
+• AWS EC2
+
+📌 Workflow:
+1️⃣ Developer pushes code to GitHub
+2️⃣ Jenkins triggers CI/CD pipeline
+3️⃣ SonarQube performs code quality analysis
+4️⃣ OWASP & Trivy perform security scanning
+5️⃣ Docker builds and pushes images to DockerHub
+6️⃣ ArgoCD deploys the application to Kubernetes
+7️⃣ Prometheus collects metrics
+8️⃣ Grafana visualizes monitoring dashboards
+
+This project helped me understand the complete DevSecOps lifecycle from code commit to monitoring production workloads.
+
+🌐 Live Demo
+Netflix Clone Application running on Kubernetes: http://13.203.69.4:30007
+⚠️ The demo environment is hosted on AWS EC2 and may be available for a limited time.
+
+📂 GitHub Repository:
+https://github.com/juhisinha422/DevSecOps-Project-Netflix-Deployment.git
