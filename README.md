@@ -378,9 +378,9 @@ Possible enhancements:
 
 # Author
 
-**Siddu S N**
+**Juhi Sinha**
 
-Electronics & Communication Engineering  
+Computer Science & Engineering  
 Cloud & DevOps Enthusiast
 
 GitHub  
