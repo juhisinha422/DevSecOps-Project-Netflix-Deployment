@@ -1,8 +1,8 @@
 # DevSecOps CI/CD Pipeline for Netflix Clone Deployment
 
-![DevSecOps Architecture](https://github.com/MrSiddu73/DevSecOps-Project-Netflix-Deployment/blob/main/public/assets/Project_Netflix.png)
+![DevSecOps Architecture](https://github.com/juhisinha422/DevSecOps-Project-Netflix-Deployment/blob/main/public/assets/Project_Netflix.png)
 
-![DevSecOps Architecture](https://github.com/MrSiddu73/DevSecOps-Project-Netflix-Deployment/blob/main/public/assets/architecture.png)
+![DevSecOps Architecture](https://github.com/juhisinha422/DevSecOps-Project-Netflix-Deployment.git/blob/main/public/assets/architecture.png)
 
 ## Overview
 
@@ -132,7 +132,7 @@ cleanWs()
 Jenkins pulls the code from GitHub.
 
 ```
-git clone https://github.com/MrSiddu73/DevSecOps-Project-Netflix-Deployment.git
+git clone https://github.com/juhisinha422/DevSecOps-Project-Netflix-Deployment.git
 ```
 
 ---
