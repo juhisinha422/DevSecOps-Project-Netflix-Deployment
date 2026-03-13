@@ -2,7 +2,7 @@
 
 ![DevSecOps Architecture](https://github.com/juhisinha422/DevSecOps-Project-Netflix-Deployment/blob/main/public/assets/Project_Netflix.png)
 
-![DevSecOps Architecture](https://github.com/juhisinha422/DevSecOps-Project-Netflix-Deployment.git/blob/main/public/assets/architecture.png)
+![DevSecOps Architecture](https://github.com/juhisinha422/DevSecOps-Project-Netflix-Deployment/blob/main/public/assets/architecture.png))
 
 ## Overview
 
