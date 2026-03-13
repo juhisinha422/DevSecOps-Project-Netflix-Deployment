@@ -198,8 +198,8 @@ docker build -t netflix .
 The built Docker image is pushed to DockerHub.
 
 ```
-docker tag netflix mrsiddu73/netflix:latest
-docker push mrsiddu73/netflix:latest
+docker tag netflix juhisinha/netflix:latest
+docker push juhsinha/netflix:latest
 ```
 
 ---
@@ -209,7 +209,7 @@ docker push mrsiddu73/netflix:latest
 Trivy scans the built Docker image.
 
 ```
-trivy image mrsiddu73/netflix:latest
+trivy image juhisinha/netflix:latest
 ```
 
 ---
