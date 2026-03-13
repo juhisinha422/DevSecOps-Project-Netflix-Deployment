@@ -28,9 +28,5 @@ I recently built a complete DevSecOps pipeline to deploy a Netflix Clone applica
 
 This project helped me understand the complete DevSecOps lifecycle from code commit to monitoring production workloads.
 
-🌐 Live Demo
-Netflix Clone Application running on Kubernetes: http://13.203.69.4:30007
-⚠️ The demo environment is hosted on AWS EC2 and may be available for a limited time.
-
 📂 GitHub Repository:
 https://github.com/juhisinha422/DevSecOps-Project-Netflix-Deployment.git
